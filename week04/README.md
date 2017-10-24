@@ -59,7 +59,7 @@
 
 Блок-схема: 
 
-![alt tag](https://github.com/KristinStefanova/UP_FMI_IS_2017-2018/blob/master/week04/diagrams/Diagram_for.png)
+![alt tag](https://github.com/GeorgiMinkov/FMI_IS_UP_2_2017/tree/master/week04/diagrams/Diagram_for.png)
 
 ### for конструкция(for statement)
 Синтаксис:
@@ -74,7 +74,7 @@ for ( <инициализация>; <условие-за-край>; <актуа�
 
 Блок-схема: 
 
-![alt tag](https://github.com/KristinStefanova/UP_FMI_IS_2017-2018/blob/master/week04/diagrams/for.png)
+![alt tag](https://github.com/GeorgiMinkov/FMI_IS_UP_2_2017/tree/master/week04/diagrams/for.png)
 
 Пример: Отпечатване на числата от 0 до 9
 ```c++
@@ -101,7 +101,7 @@ while (<условие-за-край-булев-израз>)
 
 Блок-схема: 
 
-![alt tag](https://github.com/KristinStefanova/UP_FMI_IS_2017-2018/blob/master/week04/diagrams/while%20(1).png)
+![alt tag](https://github.com/GeorgiMinkov/FMI_IS_UP_2_2017/tree/master/week04/diagrams/while%20(1).png)
 
 Пример: Отпечатване на числата от 0 до 9
 ```c++
@@ -127,7 +127,7 @@ int main()
 
 Блок-схема: 
 
-![alt tag](https://github.com/KristinStefanova/UP_FMI_IS_2017-2018/blob/master/week04/diagrams/Diagram_do_while.png)
+![alt tag](https://github.com/GeorgiMinkov/FMI_IS_UP_2_2017/tree/master/week04/diagrams/Diagram_do_while.png)
 
 ### do-while конструкция(do-while statement)
 
@@ -145,7 +145,7 @@ while (<условие-за-край-булев-израз>);
 
 Блок-схема: 
 
-![alt tag](https://github.com/KristinStefanova/UP_FMI_IS_2017-2018/blob/master/week04/diagrams/do-while.png)
+![alt tag](https://github.com/GeorgiMinkov/FMI_IS_UP_2_2017/tree/master/week04/diagrams/do-while.png)
 
 Пример: Отпечатване на числата от 0 до 9
 ```c++
